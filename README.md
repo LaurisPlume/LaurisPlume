@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LaurisPlume
 - 👀 I’m interested in Web3
-- 🌱 I’m currently learning Solidity and JavaScript
+- 🌱 I'm learning Solidity and JavaScript
 - 💞️ I’m looking to collaborate on web3 projects
+- I am interested in QA
 - 📫 How to reach me at my email: plume.lauris@gmail.com 
 
 <!---
